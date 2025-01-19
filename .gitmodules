@@ -1,0 +1,3 @@
+[submodule "Packages/Submodules/UnitySubmodule"]
+	path = Packages/Submodules/UnitySubmodule
+	url = https://github.com/SwitchC/UnitySubmodule.git
