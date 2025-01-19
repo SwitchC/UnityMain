@@ -1,9 +1,9 @@
 {
   "dependencies": {
     "com.example.mypackage": {
-      "version": "file:Package Example",
+      "version": "file:Submodules/UnitySubmodule",
       "depth": 0,
-      "source": "embedded",
+      "source": "local",
       "dependencies": {
         "com.unity.addressables": "1.22.3",
         "com.unity.cinemachine": "2.10.3"
